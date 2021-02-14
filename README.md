@@ -13,7 +13,7 @@ You must install Node.js on your local device to run this application.
 Download tis files to your local directory, unzip it, and open it from your VS Code (or similar programs).
 In your terminal of the root directory of this files, type `npm install`. 
 
-# Test
+## Test
 To run the test, please put the following command in your terminal: npm start
 
 Make sure you have installed all npm packages by putting `npm install` in your terminal.
